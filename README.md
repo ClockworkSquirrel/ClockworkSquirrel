@@ -1,6 +1,6 @@
 <div align="center">
     
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clockworksquirrel&show_icons=true&count_private=true&hide_title=true&hide_border=true)][me/gh]
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csqrl&show_icons=true&count_private=true&hide_title=true&hide_border=true)][me/gh]
   
   <p>
     
@@ -22,7 +22,7 @@ csqrl#0287
   </p>
 </div>
 
-[me/gh]: https://github.com/ClockworkSquirrel
+[me/gh]: https://github.com/csqrl
 [me/rbx]: https://roblox.com/users/3659905/profile
 [me/rbxdev]: https://devforum.roblox.com/u/csqrl
 [me/dribbble]: https://dribbble.com/csqrl
