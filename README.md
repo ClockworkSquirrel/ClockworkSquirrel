@@ -26,4 +26,4 @@ csqrl#0287
 [me/rbx]: https://roblox.com/users/3659905/profile
 [me/rbxdev]: https://devforum.roblox.com/u/csqrl
 [me/dribbble]: https://dribbble.com/csqrl
-[me/mail]: mailto://csqrl+gh@outlook.com
+[me/mail]: mailto://e@csqrl.dev
